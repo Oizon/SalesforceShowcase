@@ -1,5 +1,4 @@
-/*
- * Apex Trigger: PreventCaseCreation
+/* Apex Trigger: PreventCaseCreation
  * 
  * Description:
  * This trigger prevents the creation of a Case if the user does not have a certain profile
